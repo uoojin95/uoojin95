@@ -19,7 +19,7 @@ jobs:
           # Options
           user: uoojin1
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_timezone: America/Toronto
           plugin_followup: yes
           plugin_isocalendar: yes
@@ -31,3 +31,6 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 16
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
