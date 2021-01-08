@@ -24,8 +24,8 @@ jobs:
           plugin_followup: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_posts: yes
-          plugin_posts_limit: 4
-          plugin_posts_source: dev.to
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
