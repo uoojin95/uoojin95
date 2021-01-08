@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/uoojin1?template=classic&base.metadata=0&isocalendar=1&languages=1&stars=1&languages.ignored=Jupyter%20Notebook&isocalendar.duration=full-year&stars.limit=4&config.timezone=America%2FToronto)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
