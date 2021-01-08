@@ -19,10 +19,10 @@ jobs:
           # Options
           user: uoojin1
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Toronto
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_ignored: Jupyter Notebook
           plugin_stars: yes
