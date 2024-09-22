@@ -24,3 +24,5 @@ Looking Ahead:
 - **Conquering the Kubernetes World**: While I have a solid grasp of building robust services, the DevOps world presents a unique set of challenges. To become more proficient, I'm actively working through lectures and aiming for the CKA and CKAD certifications.
 - **Becoming a Positive Force**: I aspire to be a positive influence on those around me. One way to achieve this is through effective documentation. Although I'm currently contributing to documentation at IncludedHealth, I recognize there's still much room for growth in this area.
 - **Cultivating Empathy and Growth**: As I've worked with various individuals, I've realized that technical abilities alone aren't enough. I'm committed to becoming a more empathetic and well-rounded individual. If you have any book recommendations to help me on this journey, I'd love to hear them.
+
+on September 22nd, 2024
