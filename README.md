@@ -1,4 +1,4 @@
-# Hi, there!
+# Hi there! 👋
 
 My name is Eugene (or Yujin) and I'm a software developer currently living in Toronto, Canada 🍁.
 
