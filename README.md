@@ -4,7 +4,7 @@ My name is Eugene (also Yujin). I'm a software developer currently living in Tor
 
 My journey began in 2013 when I started my Computer Engineering major at the University of Toronto. Back then, coding was a new frontier for me, but my natural inclination towards crafting things drew me closer to it. During my UofT years, I landed internships that opened my eyes to the daily life of a software engineer.
 
-My first internship was at IBM, where I leveraged Java and JavaScript to write comprehensive tests for APIs and UIs. This experience provided a solid foundation, but I craved a more hands-on role with direct business impact.
+My first internship was at [IBM](https://www.ibm.com), where I leveraged Java and JavaScript to write comprehensive tests for APIs and UIs. This experience provided a solid foundation, but I craved a more hands-on role with direct business impact.
 
 Naturally, I chose a startup, [BioRender](https://www.biorender.com/), for my second internship. BioRender was a [Y Combinator](https://www.ycombinator.com/) backed startup with a lean 8-person team during their growth phase. Even as an intern, I played a critical role. I shipped features on a rapid release cycle (weekly/biweekly) and received immediate user feedback, solidifying my full-stack development skills (MERN stack) and fostering a strong connection to the product's impact.
 
