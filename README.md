@@ -2,7 +2,7 @@
 
 I'm Eugene (or Yujin), a software developer based in Toronto, Canada. 🍁
 
-I'm passionate about solving complex problems to improve people's lives.
+I'm passionate about improving people's lives.
 Currently, I'm working at [Included Health](https://includedhealth.com/) to revolutionize the healthcare system.
 
 ## My main skillset
