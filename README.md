@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Eugene (or Yujin) and I'm a software developer currently living in Toronto, Canada 🍁.
+My name is Eugene (or Yujin) and I'm a software developer in Toronto 🍁.
 
 Right now I'm at [Included Health](https://includedhealth.com/) and we are on a mission to make health care better for everyone.
 
