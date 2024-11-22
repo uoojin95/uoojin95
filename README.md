@@ -6,7 +6,8 @@ Currently, I'm at [Included Health](https://includedhealth.com/), working toward
 
 ```
       |\      _,,,---,,_
-ZZZzz /,`.-'`'    -.  ;-;;,_
+Z Z z /,`.-'`'    -.  ;-;;,_
      |,4-  ) )-,_. ,\ (  `'-'
     '---''(_/--'  `-'\_)
-``` I have a black cat named Snow
+```
+I have a black cat named Snow
