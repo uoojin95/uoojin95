@@ -2,7 +2,7 @@
 
 I'm Eugene (or Yujin), a software developer based in Toronto, Canada. 🍁
 
-Currently, I'm @ [Included Health](https://includedhealth.com/) to revolutionize the healthcare system.
+Currently, I'm at [Included Health](https://includedhealth.com/), working towards revolutionizing the healthcare system.
 
 ```
       |\      _,,,---,,_
